@@ -2,11 +2,11 @@
 홍인혜 포트폴리오
 
 <p align="center">
-<a href="https://github.com/honginhye/Developer-Portfolio/blob/main/%ED%99%8D%EC%9D%B8%ED%98%9C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%20(1).pdf
-" target="_blank">
+  <a href="https://github.com/honginhye/Developer-Portfolio/blob/main/%ED%99%8D%EC%9D%B8%ED%98%9C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Portfolio-View%20PDF-blue?style=for-the-
-badge&logo=adobeacrobatreader&logoColor=white" />
 
 </a>
 </p>
